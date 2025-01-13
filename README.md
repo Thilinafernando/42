@@ -1,2 +1,2 @@
 # 42
-My projects
+42 Crurses
